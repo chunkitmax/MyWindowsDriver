@@ -5,6 +5,9 @@ May be still usable on Windows 10 I don't know and won't test it anymore.
 
 This is a project for me to create different Windows drivers to perform System Service Descriptor Table (SSDT) Hook in old days (before I went to University).
 
+## Requirement
+Windows Driver Kit (version: ???)
+
 ## Project (File Protecting):  
 - [MyWindowsDriver(Using FilesProtect_SSDT_Hook.cpp) [C++/C]](https://github.com/chunkitmax/MyWindowsDriver) builds Windows driver for controlling or overriding kernel APIs
 - [FilesProtect_Dll [VB.Net COM dll]](https://github.com/chunkitmax/TestMyDriver_FilesProtect) provides utilty functions
